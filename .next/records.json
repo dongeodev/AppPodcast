@@ -1,0 +1,43 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\9Klys8DiqZcZwMakGWyws\\pages\\_app.js": 3,
+      "static\\9Klys8DiqZcZwMakGWyws\\pages\\_error.js": 4,
+      "static\\9Klys8DiqZcZwMakGWyws\\pages\\channel.js": 5,
+      "static\\9Klys8DiqZcZwMakGWyws\\pages\\index.js": 6,
+      "static\\9Klys8DiqZcZwMakGWyws\\pages\\podcast.js": 7,
+      "static\\DJ4CuSn0bBE~uaXDG3gVg\\pages\\_app.js": 8,
+      "static\\DJ4CuSn0bBE~uaXDG3gVg\\pages\\_error.js": 9,
+      "static\\DJ4CuSn0bBE~uaXDG3gVg\\pages\\channel.js": 10,
+      "static\\DJ4CuSn0bBE~uaXDG3gVg\\pages\\index.js": 11,
+      "static\\DJ4CuSn0bBE~uaXDG3gVg\\pages\\podcast.js": 12,
+      "static\\4QxWWHz2zTQIXjANoNpTZ\\pages\\_app.js": 3,
+      "static\\4QxWWHz2zTQIXjANoNpTZ\\pages\\_error.js": 4,
+      "static\\4QxWWHz2zTQIXjANoNpTZ\\pages\\channel.js": 5,
+      "static\\4QxWWHz2zTQIXjANoNpTZ\\pages\\index.js": 6,
+      "static\\4QxWWHz2zTQIXjANoNpTZ\\pages\\podcast.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}
