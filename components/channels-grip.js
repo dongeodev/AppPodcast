@@ -50,10 +50,10 @@ function ChannelsGrid (props){
       } 
       @media screen and (max-width: 420px){
        .channels{
-        grid-template-columns: repeat(auto-fill, minmax(160px,1fr));
+        grid-template-columns: repeat(auto-fill, minmax(120px,1fr));
        } 
        .channels.series{
-        grid-template-columns: repeat(auto-fill, minmax(160px,1fr)); 
+        grid-template-columns: repeat(auto-fill, minmax(120px,1fr)); 
       }
       }
 
